@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'D:\idea\lab\src\testConcurrent\queue\SelfLinkedBlockingQueue.java'" />
+    <option name="defaultScopeName" value="File 'D:\idea\lab\src\testConcurrent\queue\SelfLinkedBlockingQueue.java'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\idea\lab\src\testConcurrent\queue\SelfLinkedBlockingQueue.java'" />
+    <option name="FILE_MASK" value="*.js" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.css</mask>
+      <mask>.xml</mask>
+      <mask>.jsp</mask>
+      <mask>.js</mask>
+      <mask>*.×</mask>
+      <mask>*mapper.xml</mask>
+      <mask>*.vue</mask>
+      <mask>*.json</mask>
+      <mask>*.xml</mask>
+      <mask>*.jsp</mask>
+      <mask>*.properties</mask>
+      <mask>*.*</mask>
+      <mask>*.java</mask>
+      <mask>pom.xml</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

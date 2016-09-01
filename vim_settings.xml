@@ -1,0 +1,157 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/git/vue_demo/src/main/java/com/my/vue/common/Log.java" timestamp="1466491367942">
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="365" column="11" />
+      </file>
+      <file name="E:/Git/admin-ghzs/admin-ghzs-web/src/main/webapp/WEB-INF/assets/js/apps/supplier/supplier-info/components/base-info.js" timestamp="1467942703443">
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="102" column="42" />
+        <mark key="." line="102" column="42" />
+      </file>
+      <file name="E:/Git/admin-ghzs/admin-ghzs-web/src/main/webapp/WEB-INF/jsp/supplier/supplier-info.jsp" timestamp="1468917611812">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="E:/Git/admin-supplier/admin-supplier-web/src/main/java/com/qianmi/admin/controller/base/BaseController.java" timestamp="1466476119989">
+        <mark key="'" line="40" column="75" />
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="47" />
+        <mark key="." line="40" column="47" />
+      </file>
+      <file name="E:/Git/admin-supplier/admin-supplier-dao/src/main/resources/com/qianmi/admin/dao/order/TradeCollectMapper.xml" timestamp="1466475000774">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+      </file>
+      <file name="E:/Git/admin-supplier/admin-supplier-core/src/main/java/com/qianmi/admin/core/service/sites/SupplierSiteInfoService.java" timestamp="1467941139097">
+        <mark key="[" line="127" column="39" />
+      </file>
+      <file name="E:/Git/d2g-platform/d2g-platform-server/src/main/webapp/WEB-INF/assets/apps/purchase-list/component/purchase-table.js" timestamp="1470650170545">
+        <mark key="[" line="126" column="45" />
+      </file>
+      <file name="E:/Git/admin-supplier/admin-supplier-web/src/main/webapp/WEB-INF/assets/js/apps/sites/setInfo/store.js" timestamp="1467941671814">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+      </file>
+      <file name="D:/git/vue/src/parsers/test_me.js" timestamp="1471587403564">
+        <mark key="[" line="11" column="29" />
+      </file>
+      <file name="D:/git/vue_demo/src/main/webapp/WEB-INF/jsp/home.jsp" timestamp="1466648691431">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="40" column="16" filename="E:/Git/admin-supplier/admin-supplier-web/src/main/java/com/qianmi/admin/controller/base/BaseController.java" />
+      <jump line="45" column="4" filename="E:/Git/admin-supplier/admin-supplier-web/src/main/java/com/qianmi/admin/controller/base/BaseController.java" />
+      <jump line="68" column="75" filename="E:/Git/admin-supplier/admin-supplier-web/src/main/java/com/qianmi/admin/controller/base/BaseController.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZDJjU3RhdHVzOicke2QyY1N0YXR1c30nLAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>',</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx7XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZDJjU3RhdHVzOicke2QyY1N0YXR1c30nLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>',</text>
+      </register>
+      <register name="3" type="4">
+        <text>请填写手机号码</text>
+      </register>
+      <register name="4" type="4">
+        <text>: '</text>
+      </register>
+      <register name="5" type="4">
+        <text>g
+            required</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IHs=</text>
+      </register>
+      <register name="7" type="4">
+        <text>e:</text>
+      </register>
+      <register name="8" type="4">
+        <text>set</text>
+      </register>
+      <register name="9" type="4">
+        <text>r().</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/ERROR/eaaa</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-replace>eaaa</last-replace>
+      <last-substitute>react</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Error</entry>
+        <entry>ERROR</entry>
+        <entry>react</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>saaaaa/g</entry>
+        <entry>slogger/g</entry>
+        <entry>s/Error/XXX/g</entry>
+        <entry>s/ERROR/exx/g</entry>
+        <entry>s/ERROR/eaaa</entry>
+        <entry>react</entry>
+        <entry>/react</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
