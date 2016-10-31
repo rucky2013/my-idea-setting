@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/making/demo-http2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Bestfeel/spring-cloud-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\git" />
