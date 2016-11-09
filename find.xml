@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\idea\lab\src\jdk8\thread\TestCallable.java'" />
-    <option name="defaultScopeName" value="File 'D:\idea\lab\src\jdk8\thread\TestCallable.java'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\idea\lab\src\jdk8\thread\TestCallable.java'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
