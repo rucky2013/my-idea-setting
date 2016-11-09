@@ -42,8 +42,12 @@
           <option name="url" value="http://git.dev.qianmi.com/gcs/d2p-wechat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/darren-fu/spring-cloud-config-support.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="e:\git" />
+    <option name="cloneParentDir" value="d:\git" />
   </component>
 </application>
