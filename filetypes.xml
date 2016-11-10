@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="common.js" type="PLAIN_TEXT" />
       <mapping pattern="from" type="PLAIN_TEXT" />
+      <mapping pattern="2016-11-10_用户添加推荐人字段.sql" type="SQL" />
       <mapping pattern="Pagination" type="Vue.js file" />
       <mapping pattern="Example" type="Vue.js file" />
     </extensionMap>
