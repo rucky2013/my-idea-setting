@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/alibaba/dubbo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TiFG/netty4-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="d:\git" />
