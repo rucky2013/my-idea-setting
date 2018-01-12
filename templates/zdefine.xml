@@ -1,0 +1,29 @@
+<templateSet group="zdefine">
+  <template name="zlog" value="private static final Logger log = LoggerFactory.getLogger($CLASS$.class);" description="logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="zpp" value="@Getter&#10;@Setter&#10;private $TYPE$ $NAME$;" description="private type" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="String" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="zppa" value="@Getter&#10;@Setter&#10;private $TYPE$ $NAME$;" description="private type auto" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="decapitalize(clipboard())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="zlogp" value="log.info($MSG$,$PARMS$);&#10;" description="log print params" toReformat="false" toShortenFQNames="true">
+    <variable name="MSG" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ':{}'}.join(';') + '\&quot;'&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARMS" expression="groovyScript(&quot;_1.collect { it}.join(',') &quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
